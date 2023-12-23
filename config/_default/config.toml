@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-# baseURL = "https://your_domain.com/"
+baseURL = "https://devstag.github.io/"
 defaultContentLanguage = "tr"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
