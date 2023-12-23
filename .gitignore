@@ -1,0 +1,6 @@
+#others
+node_modules
+.hugo_build.lock
+
+# Hugo
+public
