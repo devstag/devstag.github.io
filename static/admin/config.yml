@@ -2,7 +2,7 @@ backend:
   name: github
   repo: "devstag/devstag.github.io"
   branch: main # Branch to update (optional; defaults to master)
-  site_domain: "cms.netlify.com"
+  site_domain: "demo.decapcms.org"
 
 publish_mode: editorial_workflow
 media_folder: "static/images/uploads"
