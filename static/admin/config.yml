@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: devstag/devstag.github.io
+  repo: "devstag/devstag.github.io"
   branch: main # Branch to update (optional; defaults to master)
 
 publish_mode: editorial_workflow
